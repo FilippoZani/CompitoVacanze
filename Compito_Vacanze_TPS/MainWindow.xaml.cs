@@ -63,7 +63,7 @@ namespace Compito_Vacanze_TPS
 
                 this.Dispatcher.BeginInvoke(new Action(() =>
                 {
-                    imgPesce1.Margin = new Thickness(inizioPesce1, 320, 0, 0);
+                    imgPesce1.Margin = new Thickness(inizioPesce1, 26, 0, 0);
                 }));
             }
 
@@ -85,7 +85,7 @@ namespace Compito_Vacanze_TPS
 
                 this.Dispatcher.BeginInvoke(new Action(() =>
                 {
-                    imgPesce2.Margin = new Thickness(inizioPesce2, 320, 0, 0);
+                    imgPesce2.Margin = new Thickness(inizioPesce2, 146, 0, 0);
                 }));
             }
 
@@ -107,7 +107,7 @@ namespace Compito_Vacanze_TPS
 
                 this.Dispatcher.BeginInvoke(new Action(() =>
                 {
-                    imgPesce3.Margin = new Thickness(inizioPesce3, 320, 0, 0);
+                    imgPesce3.Margin = new Thickness(inizioPesce3, 264, 0, 0);
                 }));
             }
 

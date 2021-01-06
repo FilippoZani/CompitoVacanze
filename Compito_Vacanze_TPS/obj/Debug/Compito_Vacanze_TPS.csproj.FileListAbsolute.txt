@@ -1,0 +1,14 @@
+C:\Users\FILIPPO ZANI\Documents\ProgettiGITHUB\Compito_Vacanze_TPS\Compito_Vacanze_TPS\bin\Debug\Compito_Vacanze_TPS.exe.config
+C:\Users\FILIPPO ZANI\Documents\ProgettiGITHUB\Compito_Vacanze_TPS\Compito_Vacanze_TPS\bin\Debug\Compito_Vacanze_TPS.exe
+C:\Users\FILIPPO ZANI\Documents\ProgettiGITHUB\Compito_Vacanze_TPS\Compito_Vacanze_TPS\bin\Debug\Compito_Vacanze_TPS.pdb
+C:\Users\FILIPPO ZANI\Documents\ProgettiGITHUB\Compito_Vacanze_TPS\Compito_Vacanze_TPS\obj\Debug\Compito_Vacanze_TPS.csprojAssemblyReference.cache
+C:\Users\FILIPPO ZANI\Documents\ProgettiGITHUB\Compito_Vacanze_TPS\Compito_Vacanze_TPS\obj\Debug\MainWindow.g.cs
+C:\Users\FILIPPO ZANI\Documents\ProgettiGITHUB\Compito_Vacanze_TPS\Compito_Vacanze_TPS\obj\Debug\App.g.cs
+C:\Users\FILIPPO ZANI\Documents\ProgettiGITHUB\Compito_Vacanze_TPS\Compito_Vacanze_TPS\obj\Debug\Compito_Vacanze_TPS_MarkupCompile.cache
+C:\Users\FILIPPO ZANI\Documents\ProgettiGITHUB\Compito_Vacanze_TPS\Compito_Vacanze_TPS\obj\Debug\Compito_Vacanze_TPS_MarkupCompile.lref
+C:\Users\FILIPPO ZANI\Documents\ProgettiGITHUB\Compito_Vacanze_TPS\Compito_Vacanze_TPS\obj\Debug\MainWindow.baml
+C:\Users\FILIPPO ZANI\Documents\ProgettiGITHUB\Compito_Vacanze_TPS\Compito_Vacanze_TPS\obj\Debug\Compito_Vacanze_TPS.g.resources
+C:\Users\FILIPPO ZANI\Documents\ProgettiGITHUB\Compito_Vacanze_TPS\Compito_Vacanze_TPS\obj\Debug\Compito_Vacanze_TPS.Properties.Resources.resources
+C:\Users\FILIPPO ZANI\Documents\ProgettiGITHUB\Compito_Vacanze_TPS\Compito_Vacanze_TPS\obj\Debug\Compito_Vacanze_TPS.csproj.GenerateResource.cache
+C:\Users\FILIPPO ZANI\Documents\ProgettiGITHUB\Compito_Vacanze_TPS\Compito_Vacanze_TPS\obj\Debug\Compito_Vacanze_TPS.exe
+C:\Users\FILIPPO ZANI\Documents\ProgettiGITHUB\Compito_Vacanze_TPS\Compito_Vacanze_TPS\obj\Debug\Compito_Vacanze_TPS.pdb
