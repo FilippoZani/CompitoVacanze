@@ -91,7 +91,7 @@ namespace Compito_Vacanze_TPS
 
             if (inizioPesce2 >= 620)
             {
-                Classifica(0);
+                Classifica(1);
             }
 
         }
@@ -113,7 +113,7 @@ namespace Compito_Vacanze_TPS
 
             if (inizioPesce3 >= 620)
             {
-                Classifica(0);
+                Classifica(2);
             }
 
         }
