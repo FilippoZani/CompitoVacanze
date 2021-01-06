@@ -20,9 +20,25 @@ namespace Compito_Vacanze_TPS
     /// </summary>
     public partial class MainWindow : Window
     {
+        readonly Uri uriPesce1 = new Uri("Boomerang.png", UriKind.Relative);
+        readonly Uri uriPesce2 = new Uri("FISH.png", UriKind.Relative);
+        readonly Uri uriPesce3 = new Uri("Peeper.png", UriKind.Relative);
+        double inizioPesce1;
+        double inizioPesce2;
+        double inizioPesce3;
+        Random r;
+        static int podio;
+
         public MainWindow()
         {
             InitializeComponent();
+            ImageSource imgPesce1 = new BitmapImage(uriPesce1);
+            ImageSource imgPesce2 = new BitmapImage(uriPesce2);
+            ImageSource imgPesce3 = new BitmapImage(uriPesce3);
+            inizioPesce1 = 49;
+            inizioPesce2 = 49;
+            inizioPesce3 = 49;
+            podio = 0;
         }
     }
 }

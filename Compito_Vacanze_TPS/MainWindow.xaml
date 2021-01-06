@@ -7,6 +7,10 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Image HorizontalAlignment="Left" Height="433" Margin="0,-13,-0.4,0" VerticalAlignment="Top" Width="794" Source="SfondoGara.jpg"/>
+        <Image x:Name="imgPesce1" HorizontalAlignment="Left" Height="80" Margin="49,26,0,0" VerticalAlignment="Top" Width="80"/>
+        <Image x:Name="imgPesce2" HorizontalAlignment="Left" Height="80" Margin="49,146,0,0" VerticalAlignment="Top" Width="80"/>
+        <Image x:Name="imgPesce3" HorizontalAlignment="Left" Height="80" Margin="49,264,0,0" VerticalAlignment="Top" Width="80"/>
+
     </Grid>
 </Window>
