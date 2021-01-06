@@ -67,7 +67,7 @@ namespace Compito_Vacanze_TPS
                 }));
             }
 
-            if (inizioPesce1 >= 680)
+            if (inizioPesce1 >= 620)
             {
                 Classifica(0);
             }
@@ -89,7 +89,7 @@ namespace Compito_Vacanze_TPS
                 }));
             }
 
-            if (inizioPesce2 >= 680)
+            if (inizioPesce2 >= 620)
             {
                 Classifica(0);
             }
@@ -111,17 +111,17 @@ namespace Compito_Vacanze_TPS
                 }));
             }
 
-            if (inizioPesce3 >= 680)
+            if (inizioPesce3 >= 620)
             {
                 Classifica(0);
             }
 
         }
 
-        public void Classifica(int sender)
+        public void Classifica(int i)
         {
 
-            if (sender == 0)
+            if (i == 0)
             {
                 if (podio == 0)
                 {
@@ -140,7 +140,7 @@ namespace Compito_Vacanze_TPS
                 }
 
             }
-            else if (sender == 1)
+            else if (i == 1)
             {
                 if (podio == 0)
                 {
@@ -159,7 +159,7 @@ namespace Compito_Vacanze_TPS
                 }
 
             }
-            else if (sender == 2)
+            else if (i == 2)
             {
                 if (podio == 0)
                 {
